@@ -1,0 +1,324 @@
+* {
+  font-family: Inter, sans-serif;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.body {
+  font-size: 30px;
+  color: black;
+}
+body .section{
+  margin: 50px 0 0 0;
+}
+
+.hero {
+  width: 100%;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+
+}
+.hero .container{
+  overflow: auto;
+}
+.hero .container .text {
+  width: 50%;
+  float: left;
+  padding: 40px;
+  font-size: 26px;
+  font-weight: 400;
+  margin-top: 50px;
+  
+}
+
+.hero .container .image {
+  margin: auto;
+  padding: 100px;
+  width: 50%;
+  float: left;
+  
+  padding: 100px;
+}
+
+img {
+  border-radius: 30px;
+  max-width: 100%;
+}
+
+span a{
+  display: inline-block;
+}
+.Membership .container{
+  width: 60%;
+  border-radius: 20px ;
+}
+.hero .container .text .journey,
+.hero .container .text .learn {
+  border-radius: 12px;
+  width: 30%;
+  background-color: black;
+  color: white;
+  border: solid white 1px;
+  padding: 20px;
+}
+.hero .container .text .learn {
+  color: black;
+  background-color: white;
+  border: black solid 1px;
+}
+
+.clear-fix {
+  clear: both;
+}
+
+.why .container .title {
+  text-align: center;
+}
+.premium {
+  background-color: #dbeaff;
+  border: solid 1px rgba(235, 244, 255);
+}
+
+.expert {
+  background-color: #d0fae6;
+  border: 1px solid rgba(217, 250, 235);
+}
+
+.hours {
+  background-color: #f4e8ff;
+  border: 1px solid rgba(246, 238, 255);
+}
+
+.card {
+  float: left;
+  width: 30%;
+  border-radius: 15px;
+  padding: 30px;
+  text-align: center;
+
+}
+
+.mid {
+  margin: 0 5%;
+}
+.why .container .reasons {
+  width: 100%;
+  margin: auto;
+  padding: 10px;
+}
+.empty{
+  margin: auto;
+  height: 60px;
+  width:  60px;
+  background-color: white;
+  border-radius: 13px;
+
+}
+
+.reasons h3{
+  margin-top : 20px; ;
+}
+.why .container .reasons .one{
+border: 13px solid rgba(21, 93, 252);
+background-color:  rgba(21, 93, 252);
+}
+.why .container .reasons .two{
+  border: 13px solid rgba(0, 153, 102);
+background-color:  rgba(0, 153, 102);
+}
+.why .container .reasons .three{
+  border: 13px solid rgba(152, 16, 250);
+  background-color:  rgba(152, 16, 250);
+}
+.emp{
+width: 30px;
+height: 30px;
+margin:auto;
+margin-top: 3px;
+border: 1px solid white;
+background-color: white;
+}
+.one .emp{
+  border-radius: 9px;
+}
+
+.two .emp{
+  border-radius: 50%;
+}
+.three .emp{
+  border-radius: 8px;
+}
+.why .container .more {
+  margin: auto;
+  padding: 30px ;
+}
+.why .container .more .text,
+.why .container .more .image {
+  width: 50%;
+  float: left;
+  margin: auto;
+  padding: 20px;
+}
+.why .container .more .text h4,
+.why .container .more .text p {
+  border-left: solid 4px black;
+  padding: 10px;
+  padding-left: 15px;
+  height: 35px;
+}
+.why .container .more .image{
+  padding-left: 0;
+}
+.Testimonials{
+background-color: rgba(249, 250, 251);
+padding: 40px 0;
+}
+.Testimonials .container .I{
+  text-align: center;
+}
+.Testimonials .container .II .card{
+
+  text-align: left;
+}
+.Testimonials .container .II .A {
+  background-color: rgba(239, 246, 255);
+  border: 1px solid rgba(225, 238, 253);
+}
+
+.Testimonials .container .II .B {
+  background-color: rgba(219, 247, 235);
+  border: 1px solid rgba(216, 248, 234);
+}
+.Testimonials .container .II .C {
+  background-color: rgba(250, 245, 255);
+  border: 1px solid rgba(243, 235, 253);
+}
+.Testimonials .container .II img {
+  border-radius: 50%;
+}
+.II table th {
+  width: 20%;
+}
+.II table td {
+  width: 80%;
+}
+.Testimonials .container .III .review {
+ 
+  width: 100%;
+  margin: 30px 0;
+  text-align: center;
+  border: 1px solid rgba(238, 241, 246);
+  background-color: rgba(241, 245, 249);
+}
+.Membership .container .membertitle{
+  text-align: center;
+}
+input{
+  background-color: rgba(241, 245, 249);
+}
+
+
+.Membership .container .data .Fname{
+  width: 45%;
+  float: left;
+  margin: auto;
+
+}
+.Membership .container .data .Lname{
+  width: 45%;
+  float: right;
+  margin: auto;
+
+}
+
+
+form{
+  background-color: rgba(241, 245, 249); 
+width: 100%;
+  padding: 30px;
+  border: 1px solid transparent;
+  border-radius: 15px;
+  
+}
+
+button ,select, input{
+  width: 100%;
+  
+  box-sizing: border-box;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 8px;
+  background-color: transparent;
+  display: inline-block;
+  border: 1px solid black;
+}
+
+textarea{
+  background-color: transparent;
+ border: solid 1px black;
+ border-radius: 8px;
+  padding: 20px;
+}
+button{
+  margin: 8px 0;
+ color: white;
+  background-color: black;
+ 
+}
+select{
+  width: 100%;
+
+}
+#formend{
+  text-align: center;
+}
+
+.about-us{
+
+background-color: rgba(16, 24, 40);
+color: white;
+}
+.about-us .container{
+  padding: 20px;
+background-color: transparent;
+line-height: 30px;
+color:#e0e0e0;
+
+}
+.about-us .container .g{
+  float: left;
+  margin: auto;
+  width: 45%;
+}
+
+.about-us .container .f{
+  float: right;
+  width: 23%;
+  margin: auto;
+}
+
+.about-us .container .QuickLinks a{
+  display: block;   
+}
+
+.about-us .container .footer{
+  border-top: 1px solid white;
+  padding: 30px;
+  margin-top: 40px;
+}
+.about-us .container .footer span{
+  margin-left: 10px;
+}
+.about-us .container .footer .footerspan
+{
+float: right;
+
+}
+.about-us a{
+  color: rgba(255, 255, 255 ,0.8);
+  font-style: normal;
+  text-decoration: none;
+margin-right: 10px;
+}
