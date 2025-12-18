@@ -3,7 +3,7 @@
 Responsive gym website built as a frontend project.
 
 # Live Demo
-🔗 https://YOUR-NETLIFY-LINK.netlify.app
+🔗 https://sco-fitcore-gym.netlify.app/
 
 # Built With
 - HTML
