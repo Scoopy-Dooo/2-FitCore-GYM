@@ -1,17 +1,20 @@
-# FitCore Gym Website
 
-Responsive gym website built as a frontend project.
+# FitCore Gym Website 🏋️
+A landing page gym website built as a frontend project.
 
-# Live Demo
+## 🌐 Live Demo
 🔗 https://sco-fitcore-gym.netlify.app/
 
-# Built With
-- HTML
-- CSS
+## 🛠️ Technologies Used
+- HTML5
+- CSS3
 
-# Features
-- Clean UI
-- Modern layout
-- Simple & Easy
+## ✨ Features
+- Fully responsive layout
+- Clean and modern UI
+- Optimized images
+- Cross-browser compatibility
 
-# Author : Scoopy Dooo
+## 👤 Author
+Scoopy Doo  
+Frontend Web Developer
